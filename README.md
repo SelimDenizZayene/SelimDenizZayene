@@ -1,7 +1,6 @@
 ### Hi there
 
 I am a student in Software Engineering specialized in Game and Realtime 3D software development.
-I am currently in search of an internship in my domain.
 
 <!--
 **SelimDenizZayene/SelimDenizZayene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
