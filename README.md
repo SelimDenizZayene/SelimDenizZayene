@@ -2,7 +2,7 @@
 
 I am a student in Software Engineering specialized in Game and Realtime 3D software development.
 
-You can find my unity packages in this git profile.
+You can find my unity packages in this Github profile.
 
 <!--
 **SelimDenizZayene/SelimDenizZayene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
